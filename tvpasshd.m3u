@@ -75,7 +75,7 @@ https://tvpass.org/live/ESPNews/hd
 https://tvpass.org/live/ESPNU/hd
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="Live",ESPN2 HD
 https://tvpass.org/live/ESPN2/hd
-#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" group-title="Live",Fanduel Sports Indiana HD
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="Live",Fanduel Sports Indiana HD
 https://tvpass.org/live/fanduel-sports-indiana/hd
 #EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="Live",Fanduel Sports Network Detroit HD
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
@@ -97,7 +97,7 @@ https://tvpass.org/live/fanduel-sports-network-socal/hd
 https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd
 #EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="Live",Fanduel Sports Network South Tennessee HD
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" group-title="Live",Fanduel Sports Network West HD
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="Live",Fanduel Sports Network West HD
 https://tvpass.org/live/fanduel-sports-network-west/hd
 #EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="Live",Fanduel Sports Network Wisconsin HD
 https://tvpass.org/live/fanduel-sports-network-wisconsin/hd
